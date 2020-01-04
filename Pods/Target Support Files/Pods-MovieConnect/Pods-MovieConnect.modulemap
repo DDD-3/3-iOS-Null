@@ -1,0 +1,6 @@
+framework module Pods_MovieConnect {
+  umbrella header "Pods-MovieConnect-umbrella.h"
+
+  export *
+  module * { export * }
+}
