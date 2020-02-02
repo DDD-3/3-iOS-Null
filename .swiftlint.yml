@@ -2,6 +2,9 @@ disabled_rules:
 - trailing_whitespace
 
 line_length:
+  ignores_comments: true
   warning: 99
   error: 120
 
+excluded:
+- Pods
